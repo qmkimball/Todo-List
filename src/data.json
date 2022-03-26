@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "event": "Eat breakfast",
+        "finished": true
+    },
+
+    {
+        "id": 2,
+        "event": "Workout",
+        "finished": false
+    },
+
+    {
+        "id": 3,
+        "event": "Code for at least an hour",
+        "finished": false
+    },
+
+    {
+        "id": 4,
+        "event": "Make Lunch- Protein",
+        "finished": false
+    },
+    
+    {
+        "id": 5,
+        "event": "Go on a walk",
+        "finished": false
+    },
+
+    {
+        "id": 6,
+        "event": "Prepare for interview",
+        "finished": false
+    }
+]
