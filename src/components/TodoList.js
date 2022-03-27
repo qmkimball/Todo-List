@@ -1,11 +1,12 @@
 import React from "react";
+
 import Task from "./Task";
 
 const TodoList = ({ todoList }) => {
   return (
-    <div>
-      {todoList.map((task) => {
-        return <Task task={task} />;
+    <div className="todo-list">
+      {todoList.map((task, idx) => {
+        return <Task key={idx} task={task} />;
       })}
     </div>
   );
