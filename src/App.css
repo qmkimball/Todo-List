@@ -80,3 +80,10 @@ ul li a {
 ul li {
   margin: 1em;
 }
+
+.todo-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
